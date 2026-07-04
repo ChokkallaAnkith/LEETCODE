@@ -14,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ChokkallaAnkith/LEETCODE/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/ChokkallaAnkith/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/ChokkallaAnkith/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
